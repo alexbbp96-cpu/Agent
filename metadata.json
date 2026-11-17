@@ -1,0 +1,8 @@
+{
+  "name": "SOFT_IT — AI-CV 1.0 Assistant",
+  "description": "Interactive AI-CV 1.0 dossier and logic-first product architecture assistant for SOFT_IT, AUTO-TAX / TAX-BOT, and PROJECT ADAM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
